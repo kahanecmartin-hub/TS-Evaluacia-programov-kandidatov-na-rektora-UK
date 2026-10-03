@@ -49,11 +49,11 @@ Panel položil obom kandidátom rovnakých osem otázok a ponúkol im možnosť 
 
 Hodnotenie pripravili:
 
-- **Martin Kahanec** – Stredoeurópska univerzita (CEU), koordinátor hodnotenia
-- **Vladimír Šucha** – Univerzita Komenského v Bratislave; bývalý generálny riaditeľ Spoločného výskumného centra Európskej komisie
+- **Martin Kahanec** – profesor na Stredoeurópskej univerzite (CEU) vo Viedni; člen skupiny Hlavných vedeckých poradcov Európskej komisie; bývalý člen Správnej rady UK; koordinátor hodnotenia
+- **Vladimír Šucha** – profesor Univerzity Komenského v Bratislave; bývalý generálny riaditeľ Spoločného výskumného centra Európskej komisie
 - **Denis Dulovics** – podpredseda Študentskej rady vysokých škôl pre doktorandské štúdium
-- **Milena Králíčková** – Univerzita Karlova; bývalá rektorka Univerzity Karlovej
-- **Štěpán Jurajda** – CERGE-EI, Univerzita Karlova; bývalý námestník ministerky ČR pre vedu, výskum a inovácie
+- **Milena Králíčková** – profesorka na Univerzite Karlovej, Praha; bývalá rektorka Univerzity Karlovej
+- **Štěpán Jurajda** – profesor CERGE-EI, Univerzita Karlova; bývalý námestník ministerky ČR pre vedu, výskum a inovácie
 
 ## Účel a obmedzenia
 
